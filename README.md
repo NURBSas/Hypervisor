@@ -1,7 +1,7 @@
 # Hypervisor
 Viskas apie Virtualias sistemas.
 
-    ###XCP_ng
+### XCP_ng
 
 Papildomos ISO failų saugyklos sukurimas naudojant konsolę:
 
